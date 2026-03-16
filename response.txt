@@ -1,0 +1,7 @@
+You're looking for information on semantic tags in HTML within our course. I can help you with that.
+
+Semantic tags are introduced starting from the very beginning of this course, in Video 11, around the 40-43 second mark. The instructor starts explaining what semantic tags are, so I'd recommend checking out that section of the video.
+
+If you're interested in learning more about how to use semantic tags, it continues a bit further into the same video, from approximately 244-245 seconds. 
+
+However, please note that we can only provide guidance based on the content within these video chunks. If your question relates to topics beyond what's covered here, I won't be able to offer any assistance.
